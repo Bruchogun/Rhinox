@@ -1,2 +1,2 @@
-# Rhinox-Fast-Food-Page
+# Rhinox
 Página Web de Rhino´x Fast Food
